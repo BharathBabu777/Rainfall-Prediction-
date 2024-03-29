@@ -12,4 +12,4 @@ Features:
 Usage: Explore the Rainfall Prediction project to:
 - Understand how classification machine learning models are used to predict rainfall patterns.
 - Evaluate the effectiveness of decision trees and random forests in predicting rainfall.
-- Achieve robust predictions of rainfall occurrences using accuracy scores for model evaluation.
+- Achieve robust predictions of rainfall occurrences using accuracy scores for model evaluation. 
